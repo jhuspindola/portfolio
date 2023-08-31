@@ -13,4 +13,6 @@ Com a ajuda da Alura, em dois cursos de HTML e CSS, aprendi a fazer um portfóli
 
 ## Detalhes do projeto
 
-Agradeço imensamente aos professores Guilherme e Rafaela que tiveram a melhor didática possível para me ensinar no projeto, de maneira paciente e expressiva, nos permitindo sempre fazer as melhores escolhas. Espero que possa continuar aprimorando meus conhecimentos!
+Agradeço imensamente aos professores Guilherme e Rafaela que tiveram a melhor didática possível para me ensinar no projeto, de maneira paciente e expressiva, nos permitindo sempre fazer as melhores escolhas. Espero que possa continuar aprimorando meus conhecimentos...
+
+Deixo disponível os materiais utilizados, como o código index.html e style.css. Obrigada pela visita! :)
