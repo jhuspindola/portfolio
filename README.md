@@ -1,17 +1,16 @@
-# Nome do meu projeto
+# Portfólio
 
-Rápida descrição do objetivo de fazer esse projeto
+Com a ajuda da Alura, em dois cursos de HTML e CSS, aprendi a fazer um portfólio apresentando meu perfil e minhas redes de contato para que as pessoas me encontrem e possam me solicitar trabalhos.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Projeto 1 |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Portfólio - Jhuli Spindola**
+| :label: Tecnologias | html, css
+| :rocket: URL         | Ainda não está hospedado
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://thumbs2.imgbox.com/3b/7d/SjJnIxFt_t.png?#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Agradeço imensamente aos professores Guilherme e Rafaela que tiveram a melhor didática possível para me ensinar no projeto, de maneira paciente e expressiva, nos permitindo sempre fazer as melhores escolhas. Espero que possa continuar aprimorando meus conhecimentos!
