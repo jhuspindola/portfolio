@@ -6,7 +6,7 @@ Com a ajuda da Alura, em dois cursos de HTML e CSS, aprendi a fazer um portfóli
 | -------------  | --- |
 | :sparkles: Nome        | **Portfólio - Jhuli Spindola**
 | :label: Tecnologias | html, css
-| :rocket: URL         | http://127.0.0.1:5500/index.html
+| :rocket: URL         | Ainda não está hospedado
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://thumbs2.imgbox.com/16/fc/L6ayDysj_t.png?#vitrinedev)
