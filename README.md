@@ -2,17 +2,17 @@
 
 Com a ajuda da Alura, em dois cursos de HTML e CSS, aprendi a fazer um portfólio apresentando meu perfil e minhas redes de contato para que as pessoas me encontrem e possam me solicitar trabalhos.
 
-| :placard: Projeto 1 |     |
+| :placard: 1º projeto |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Portfólio - Jhuli Spindola**
 | :label: Tecnologias | html, css
-| :rocket: URL         | Ainda não está hospedado
+| :rocket: URL         | http://127.0.0.1:5500/index.html
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://thumbs2.imgbox.com/3b/7d/SjJnIxFt_t.png?#vitrinedev)
+![](https://thumbs2.imgbox.com/16/fc/L6ayDysj_t.png?#vitrinedev)
 
 ## Detalhes do projeto
 
-Agradeço imensamente aos professores Guilherme e Rafaela que tiveram a melhor didática possível para me ensinar no projeto, de maneira paciente e expressiva, nos permitindo sempre fazer as melhores escolhas. Espero que possa continuar aprimorando meus conhecimentos...
+Agradeço imensamente aos professores Guilherme e Rafaela que tiveram a melhor didática possível para me ensinar no projeto, de maneira paciente e expressiva, nos permitindo sempre fazer as melhores escolhas. Espero que possa continuar aprimorando meus conhecimentos e sugestões são sempre bem-vindas!
 
-Deixo disponível os materiais utilizados, como o código index.html e style.css. Obrigada pela visita! :)
+Deixo disponível os materiais utilizados para quem quiser reproduzir de maneira facilitada. Obrigada pela visita! :)
